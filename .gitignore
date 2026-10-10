@@ -1,0 +1,11 @@
+.env
+.env.*
+.secrets/
+node_modules/
+.vercel/
+*.log
+
+# Local development tools
+.codex/
+.openai/
+.agents/
